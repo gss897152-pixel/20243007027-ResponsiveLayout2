@@ -13,7 +13,7 @@
         android:layout_weight="1"
         android:background="#000000"
         android:gravity="center"
-        android:text="Lab 1"
+        android:text="@string/lab_title"
         android:textColor="#FFFFFF"
         android:textSize="18sp" />
 
@@ -23,7 +23,7 @@
         android:layout_weight="1"
         android:background="#FFFFFF"
         android:gravity="center"
-        android:text="Responsive Layout 1"
+        android:text="@string/layout_title"
         android:textColor="#000000"
         android:textSize="18sp" />
 
@@ -39,7 +39,7 @@
             android:layout_weight="1"
             android:background="#D50000"
             android:gravity="center"
-            android:text="This"
+            android:text="@string/word_this"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
 
@@ -49,7 +49,7 @@
             android:layout_weight="1"
             android:background="#0000FF"
             android:gravity="center"
-            android:text="is"
+            android:text="@string/word_is"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
 
@@ -59,7 +59,7 @@
             android:layout_weight="1"
             android:background="#673AB7"
             android:gravity="center"
-            android:text="my"
+            android:text="@string/word_my"
             android:textColor="#FFFFFF"
             android:textSize="18sp" />
 
@@ -69,7 +69,7 @@
             android:layout_weight="1"
             android:background="#FFFF00"
             android:gravity="center"
-            android:text="first"
+            android:text="@string/word_first"
             android:textColor="#000000"
             android:textSize="18sp" />
 
@@ -81,7 +81,7 @@
         android:layout_weight="2"
         android:background="#000000"
         android:gravity="center"
-        android:text="Android Application"
+        android:text="@string/application_title"
         android:textColor="#FFFFFF"
         android:textSize="18sp" />
 
@@ -101,7 +101,7 @@
             android:layout_margin="8dp"
             android:layout_weight="1"
             android:backgroundTint="#6750A4"
-            android:text="Change"
+            android:text="@string/action_change"
             android:textAllCaps="false"
             android:textColor="#FFFFFF" />
 
@@ -111,7 +111,7 @@
             android:layout_margin="8dp"
             android:layout_weight="1"
             android:backgroundTint="#6750A4"
-            android:text="Cancel"
+            android:text="@string/action_cancel"
             android:textAllCaps="false"
             android:textColor="#FFFFFF" />
 
