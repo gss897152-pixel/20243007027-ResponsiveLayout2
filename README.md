@@ -19,11 +19,11 @@ The layouts use dp and sp units and LinearLayout weights so the panels share ava
 2. Select the app run configuration and start a phone emulator. Rotate it to see the landscape layout.
 3. Start a tablet emulator whose smallest width is at least 600dp. Check both portrait and landscape.
 
-The Android Studio build task :app:assembleDebug completed successfully on 2026-09-26.
+The Android Studio build task :app:assembleDebug completed successfully on 2026-09-27.
 
 ## Verified screenshots
 
-These screenshots were captured from a running Android API 35 emulator. The tablet screenshots used a temporary 800dp display configuration on the emulator.
+These screenshots were captured from running Android API 35 emulators. The tablet screenshots were taken on a Pixel Tablet AVD at 2560 x 1600 and 320 dpi.
 
 ### Phone landscape
 
